@@ -1,6 +1,6 @@
 # HelloWorld
 This is my first repository.
-
+![headshot](Steve Stead - 006.jpg)
 Introduction
 
 Hi everyone. My name is Steve Stead and i am the author of Holy Face. This README gives you a bit of information about me.
