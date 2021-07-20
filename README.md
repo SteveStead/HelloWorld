@@ -13,4 +13,4 @@ My Hobbies.
 
 I enjoy watching rugby union.
 
-![headshot](Steve Stead - 006.jpg)
+![headshot](Steve_Stead.jpg)
