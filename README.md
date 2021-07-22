@@ -13,4 +13,8 @@ My Hobbies.
 
 I enjoy watching rugby union.
 
+My Favourite Books.
+
+Basil Brush. My Story.
+
 ![headshot](Steve_Stead.jpg)
